@@ -21,7 +21,7 @@
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<!-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 🎨 Design & Art Tools
@@ -32,7 +32,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Gravit Designer](https://img.shields.io/badge/Gravit_Designer-FF713E?style=flat-square)
 ![Ibis Paint](https://img.shields.io/badge/Ibis_Paint-FF6B6B?style=flat-square)
-![Sketchbook](https://img.shields.io/badge/Sketchbook-00C7FF?style=flat-square)
+![Autodesk Sketchbook](https://img.shields.io/badge/Sketchbook-00C7FF?style=flat-square)
 
 ## 🚀 Learning Journey
 
@@ -52,7 +52,7 @@ Exploring user interface design principles and creating visually appealing, user
 As a self-taught artist, I enjoy expressing creativity through:
 
 - **Digital Art**
-- **Traditional Illustration** 
+- **Traditional Art** 
 - **Character Design**
 - **Portraits**
 
