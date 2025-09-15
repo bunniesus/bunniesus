@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shravani!
+# 👋 Hi there, I'm Shravni!
 
 **AI Student | Artist | Designer**
 
