@@ -11,7 +11,7 @@
 
 | | |
 | :--- | :--- |
-| **5+** | Programming Languages |
+| **4+** | Programming Languages |
 | **4+** | Design Tools |
 | **3+** | Art Mediums |
 
@@ -79,7 +79,7 @@ Feel free to reach out if you want to collaborate on creative projects or just h
 
 - **Email:** shravaniid28@gmail.com
 - **Art Instagram:** [@sniffndraw](https://instagram.com/sniffndraw)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+<!--- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) -->
 
 ---
 
