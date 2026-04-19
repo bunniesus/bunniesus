@@ -2,8 +2,6 @@
 
 > engineering student & an artist. building things at the intersection of both.
 
-[![Email](https://img.shields.io/badge/say_hi-shravaniid28@gmail.com-black?style=flat-square)](mailto:shravaniid28@gmail.com)
-[![Instagram](https://img.shields.io/badge/art_@sniffndraw-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sniffndraw)
 
 ---
 
@@ -31,7 +29,7 @@
 
 ---
 
-## the art side
+## the other side lol
 
 self-taught. digital mostly. characters, portraits, whatever mood hits.
 find it all → [@sniffndraw](https://instagram.com/sniffndraw)
@@ -44,10 +42,10 @@ find it all → [@sniffndraw](https://instagram.com/sniffndraw)
 
 Feel free to reach out if you want to collaborate on creative projects or just have a chat!
 
-- **Email:** shravaniid28@gmail.com
-- **Art Instagram:** [@sniffndraw](https://instagram.com/sniffndraw)
+[![Email](https://img.shields.io/badge/say_hi-gmail-black?style=flat-square)](mailto:shravaniid28@gmail.com)
+[![Instagram](https://img.shields.io/badge/art_@sniffndraw-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sniffndraw)
 <!--- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) -->
 
 ---
 
-Made with ❤️ by Shravani | Combining Code with Creativity
+Made with ❤️ by bunniesus
