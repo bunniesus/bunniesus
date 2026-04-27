@@ -1,6 +1,6 @@
-# hi, i'm shravni ✦
+# hi, i'm bunniesus aka shravni ✦
 
-> engineering student & an artist. building things at the intersection of both.
+> engineering student & an artist. building things at the intersection of both. lol.
 
 
 ---
@@ -22,10 +22,9 @@
 
 ## currently
 
-- 🎓 2nd year AI & Data Science
+- 🎓 Studying Artificial Intelligence & Data Science 
 - 🔨 building things (the fun, slightly chaotic kind)
 - 🎨 drawing whenever my brain needs a reset
-- 📷 making my camera do things it didn't sign up for
 
 ---
 
