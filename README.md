@@ -6,7 +6,7 @@
 <br>
       
 <div>
-<h2 align="center"> 🦊 ~ About me ~ 🦊 </h2>
+<h2 align="center"> 🦖 ~ About me ~ 🦖 </h2>
   <div align="center">
 <img src="https://media1.tenor.com/m/DFiy9xMYmPwAAAAd/happy-kaguya.gif" height="200" align="right">
   </div>
@@ -40,7 +40,6 @@
 
 <!--![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange) -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
@@ -49,10 +48,11 @@
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Autodesk Sketchbook](https://img.shields.io/badge/Autodesk_Sketchbook-ED8B00?style=flat&logo=java&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
-![GitHut](https://img.shields.io/badge/github-blue?logo=github) <br><br>
+![GitHub](https://img.shields.io/badge/github-blue?logo=github) <br><br>
 <!--![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)-->
 
 There are many more things.. but this will do for the meantime.
@@ -60,7 +60,7 @@ There are many more things.. but this will do for the meantime.
 <br>
 <br>
 <div>
-<h2 align="center">💖 ~ Thanks for readinggg! ~ 💖</h2>
+<h2 align="center">💗 ~ Thanks for readinggg! ~ 💗</h2>
 <div align="center">
 <img src="https://media1.tenor.com/m/U6G527kaulkAAAAd/bye-goodbye.gif">
 </div>
