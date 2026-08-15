@@ -13,11 +13,11 @@
 <li>
  <b>Name:</b> Shravni</li>
 <li>
-<b>Loves:</b> anime, sketching, sleeping
+<b>Loves:</b> sketching, sleeping, anime
 </li>
-<li>
+<!-- <li>
 <b>Gender:</b> she/her/Female
-</li>
+</li> -->
 <li>
 <b>Hobbys:</b> Code stuff, Digital art
 </li>
