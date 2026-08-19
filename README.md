@@ -69,7 +69,7 @@ There are many more things.. but this will do for the meantime.
 </div>
 <br>
 <div align = "center">
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> </div>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="35" /> </div>
 <br>
     </center>
 </body>
