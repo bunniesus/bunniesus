@@ -60,7 +60,7 @@ There are many more things.. but this will do for the meantime.
 <br>
 <p>Let's connect :</p> 
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravaniid28@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravaniid28@://gmail.com,)
 
 <br>
 <div>
