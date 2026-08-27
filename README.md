@@ -1,7 +1,7 @@
 
 <body>
   <center>
-<h1 align="center">~💗 Helloe There 💗~</h1>
+<h2 align="center">~💗 Helloe There 💗~</h2>
   <p align="center" > Currently trying to understand AI so I can finally teach my computer to do my laundry. Learning Python, ML, & the art of debugging Claude’s hallucinations until 2 AM </p>
 <br>
       
@@ -22,7 +22,7 @@
 <b>Hobbys:</b> Code stuff, Digital art
 </li>
   <li>
-<b>Currently:</b> Studying AI & Data Science
+<b>Currently:</b> Studying AI & Data Science Engineering
 </li>
 <br><br><br><br>
 </div>
