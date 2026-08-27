@@ -60,7 +60,7 @@ There are many more things.. but this will do for the meantime.
 <br>
 <p>Let's connect :</p> 
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:shravaniid28@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:shravaniid28@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sniffndraw/)
 
 
 <br>
