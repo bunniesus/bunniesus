@@ -59,7 +59,9 @@ There are many more things.. but this will do for the meantime.
 </p>
 <br>
 <p>Let's connect :</p> 
+
 ![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white) 
+
 <br>
 <div>
 <h2 align="center">💗 ~ Thanks for readinggg! ~ 💗</h2>
